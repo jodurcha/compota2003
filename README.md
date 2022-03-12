@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @compota2003 or Rodrigo
-- 👀 I’m interested in ... Frontend
-- 🌱 I’m currently learning ... CS50 Web Programming
+- 👀 I’m interested in ... Full Stack, Python
+- 🌱 I’m currently learning ... Codo a codo 4.0 Full Stack, Freecodecamp Responsive Web Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... rodrigowaltercampos@gmail.com
 
